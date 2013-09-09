@@ -102,6 +102,7 @@ require('./lib/function/matrix/zeros.js')(exports);
 require('./lib/function/probability/factorial.js')(exports);
 require('./lib/function/probability/random.js')(exports);
 require('./lib/function/probability/combination.js')(exports);
+require('./lib/function/probability/permutation.js')(exports);
 
 // functions - statistics
 require('./lib/function/statistics/min.js')(exports);
